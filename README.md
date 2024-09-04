@@ -49,7 +49,7 @@ Setup and Running the Project
 
     `python3 awsengine.py`
 
-6.  **Access the Application:** Once the server is running, you can access the application via your web browser at `https://ec2-13-60-188-30.eu-north-1.compute.amazonaws.com/`.
+6.  **Access the Application:** Once the server is running, you can access the application via your web browser at `http://<your-ec2-public-ip>:8080`.
 
 Usage
 -----
